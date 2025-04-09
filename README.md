@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Curso GRATUITO de Laravel 11.x
 
 - :movie_camera: [Acesse o Curso](https://academy.especializati.com.br/curso/laravel-11-completo-e-gratuito).
@@ -71,3 +72,6 @@ php artisan key:generate
 
 Acesse o projeto
 [http://localhost:8989](http://localhost:8989)
+=======
+# Cursos
+>>>>>>> 62e0826ce509686d77617d8107443a2e5033ab25
