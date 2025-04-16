@@ -46,6 +46,6 @@
     </div>
 
     <div class="py-4">
-        {{ $users->links() }}
+
     </div>
 @endsection
